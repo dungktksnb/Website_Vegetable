@@ -1,0 +1,18 @@
+controllers/ServletLogin.java
+ controllers.ServletLogin
+daos/ConnectionMySQL.java
+ daos.ConnectionMySQL
+daos/CRUDProduct.java
+ daos.CRUDProduct
+models/Product.java
+ models.Product
+services/ManagerProduct.java
+ services.ManagerProduct
+daos/CRUDAccount.java
+ daos.CRUDAccount
+services/ManageAccount.java
+ services.ManageAccount
+models/Account.java
+ models.Account
+controllers/ServletHome.java
+ controllers.ServletHome
